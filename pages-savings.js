@@ -8,7 +8,7 @@
 function savingsGoalCard(goal) {
   var current = goalCurrent(goal);
   var pct = goalProgress(goal);
-  var color = goal.color || "#41D18C";
+  var color = goal.color || "#2F6D54";
   var remaining = Math.max(0, goal.target - current);
   var actions;
   if (goal.auto) {

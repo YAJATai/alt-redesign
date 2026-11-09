@@ -28,13 +28,13 @@ function usageByCategory() {
     totals[sub.category] = (totals[sub.category] || 0) + (sub.weeklyHours || 0);
   });
   var total = usageTotal();
-  var colors = { Design: "#ae8ff7", Productivity: "#6c9bf5", Communication: "#41d18c", Writing: "#e7ae5b", Video: "#56cfd9", Audio: "#e87373" };
+  var colors = { Design: "#6a4f7a", Productivity: "#3d5f8a", Communication: "#2f6d54", Writing: "#8a5a14", Video: "#2c6b6e", Audio: "#a03a2e" };
   return Object.keys(totals).map(function (name, index) {
     return {
       label: name,
       value: totals[name],
       pct: percent(totals[name], total),
-      color: colors[name] || ["#6c9bf5", "#ae8ff7", "#41d18c", "#e7ae5b"][index % 4]
+      color: colors[name] || ["#3d5f8a", "#6a4f7a", "#2f6d54", "#8a5a14"][index % 4]
     };
   }).sort(function (a, b) { return b.value - a.value; });
 }

@@ -83,7 +83,7 @@ var LEGACY_ROUTES = {
   "card-scenario": "/savings/calculator"
 };
 
-var CHART_COLORS = ["#41d18c", "#6c9bf5", "#ae8ff7", "#e7ae5b", "#56cfd9", "#e87373"];
+var CHART_COLORS = ["#2f6d54", "#3d5f8a", "#6a4f7a", "#8a5a14", "#2c6b6e", "#a03a2e"];
 
 /* ---------------------------------- state --------------------------------- */
 
@@ -488,7 +488,7 @@ function categorySpend() {
     totals[sub.category] = (totals[sub.category] || 0) + sub.cost;
   });
   var total = monthlySpend();
-  var colors = { Design: "#ae8ff7", Productivity: "#6c9bf5", Communication: "#41d18c", Writing: "#e7ae5b", Video: "#56cfd9", Audio: "#e87373", Presentations: "#8fa0ff", CRM: "#f0b763", "Project management": "#7fd1ae", Code: "#56cfd9" };
+  var colors = { Design: "#6a4f7a", Productivity: "#3d5f8a", Communication: "#2f6d54", Writing: "#8a5a14", Video: "#2c6b6e", Audio: "#a03a2e", Presentations: "#5a6d9a", CRM: "#96662a", "Project management": "#4f7f6a", Code: "#2c6b6e" };
   return Object.keys(totals).map(function (name, index) {
     return {
       label: name,
@@ -882,8 +882,8 @@ function areaChart(series, options) {
   return '<div class="chart-wrap" data-chart-wrap>' +
     '<svg class="chart-svg" viewBox="0 0 ' + width + " " + height + '" role="img" aria-label="' + attr(label) + '">' +
       '<defs><linearGradient id="savingsGrad" x1="0" y1="0" x2="0" y2="1">' +
-        '<stop offset="0%" stop-color="#41d18c" stop-opacity="0.22"/>' +
-        '<stop offset="100%" stop-color="#41d18c" stop-opacity="0"/>' +
+        '<stop offset="0%" stop-color="#2f6d54" stop-opacity="0.2"/>' +
+        '<stop offset="100%" stop-color="#2f6d54" stop-opacity="0"/>' +
       "</linearGradient></defs>" +
       grid + yLabels + xLabels +
       '<path class="chart-area" d="' + areaPath + '"/>' +
@@ -915,7 +915,7 @@ function scoreRing(score, tone) {
   var radius = 46;
   var circumference = 2 * Math.PI * radius;
   var dash = circumference * (clamp(score, 0, 100) / 100);
-  var color = tone === "amber" ? "#e7ae5b" : tone === "red" ? "#e87373" : "#41d18c";
+  var color = tone === "amber" ? "#8a5a14" : tone === "red" ? "#a03a2e" : "#2f6d54";
   return '<div class="score-ring"><svg viewBox="0 0 108 108" aria-hidden="true">' +
     '<circle class="track" cx="54" cy="54" r="' + radius + '"/>' +
     '<circle class="value" cx="54" cy="54" r="' + radius + '" stroke="' + color +

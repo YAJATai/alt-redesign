@@ -14,16 +14,16 @@ var pendingChangeFocus = null;
 var paletteState = { query: "", active: 0, items: [], groups: [] };
 
 var CATEGORY_COLORS = {
-  Design: "#A98BF5",
-  Productivity: "#6C9BF5",
-  Communication: "#41D18C",
-  Writing: "#E7AE5B",
-  Video: "#56CFD9",
-  Audio: "#E87373",
-  Presentations: "#8FA0FF",
-  CRM: "#F0B763",
-  "Project management": "#7FD1AE",
-  Code: "#56CFD9"
+  Design: "#6A4F7A",
+  Productivity: "#3D5F8A",
+  Communication: "#2F6D54",
+  Writing: "#8A5A14",
+  Video: "#2C6B6E",
+  Audio: "#A03A2E",
+  Presentations: "#5A6D9A",
+  CRM: "#96662A",
+  "Project management": "#4F7F6A",
+  Code: "#2C6B6E"
 };
 
 var HELP_RESOURCES = {
@@ -1766,7 +1766,7 @@ function handleFormSubmit(form) {
       altToolId: altTool ? altTool.id : "",
       altLabel: altTool ? altTool.name : "",
       initials: initialsFor(subName),
-      color: CATEGORY_COLORS[category] || "#6C9BF5",
+      color: CATEGORY_COLORS[category] || "#3D5F8A",
       planFeatures: [plan + " plan", "Sample plan added in this workspace"],
       loseOnFree: altTool ? ["Capabilities not covered by the free plan"] : []
     };
@@ -1804,7 +1804,7 @@ function handleFormSubmit(form) {
         saved: 0,
         auto: false,
         deadline: deadline,
-        color: ["#41D18C", "#5B8DEF", "#A98BF5", "#E7AE5B"][state.goals.length % 4],
+        color: ["#2F6D54", "#3D5F8A", "#6A4F7A", "#8A5A14"][state.goals.length % 4],
         note: note
       });
       recordActivity("goal", "Created goal", goalName + " · target " + money0(target));

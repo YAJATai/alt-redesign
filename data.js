@@ -58,7 +58,7 @@
       features: ["4K editing", "Colour grading", "Fusion VFX", "Fairlight audio", "Multi-user collaboration"],
       capabilities: ["timeline", "multicam", "color", "vfx", "audio", "titles", "export4k", "collaboration", "plugins"],
       bestFor: "High-end editing",
-      color: "#F0B763",
+      color: "#96662A",
       initials: "DR"
     },
     {
@@ -78,7 +78,7 @@
       features: ["AI effects", "Templates", "Auto captions", "Trending sounds", "Desktop + mobile"],
       capabilities: ["timeline", "titles", "templates", "ai", "audio", "export4k", "mobile"],
       bestFor: "Social-first video",
-      color: "#57CFD9",
+      color: "#2C6B6E",
       initials: "CC"
     },
     {
@@ -98,7 +98,7 @@
       features: ["Multi-track editing", "Filters & transitions", "Wide export formats", "No watermark", "Portable build"],
       capabilities: ["timeline", "titles", "audio", "export4k", "plugins"],
       bestFor: "Older laptops",
-      color: "#8FA0FF",
+      color: "#5A6D9A",
       initials: "SC"
     },
     {
@@ -118,7 +118,7 @@
       features: ["Proxy editing", "Keyframe effects", "Multi-track timeline", "Open source", "Cross-platform"],
       capabilities: ["timeline", "multicam", "audio", "titles", "export4k", "plugins"],
       bestFor: "Open-source workflows",
-      color: "#7FD1AE",
+      color: "#4F7F6A",
       initials: "KD"
     },
 
@@ -140,7 +140,7 @@
       features: ["Vector editing", "Prototyping", "Real-time collaboration", "Community plugins", "Dev Mode (limited)"],
       capabilities: ["vector", "raster", "prototyping", "collaboration", "plugins", "brand", "export", "mobile"],
       bestFor: "Product design",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "F"
     },
     {
@@ -160,7 +160,7 @@
       features: ["SVG native", "Prototyping", "Real-time collaboration", "Self-hostable", "Open source"],
       capabilities: ["vector", "prototyping", "collaboration", "plugins", "export"],
       bestFor: "Open-source design",
-      color: "#41D18C",
+      color: "#2F6D54",
       initials: "P"
     },
     {
@@ -180,7 +180,7 @@
       features: ["Ready-made templates", "Drag-and-drop editor", "Brand kit (limited)", "Team folders", "PNG & PDF export"],
       capabilities: ["raster", "templates", "collaboration", "brand", "export", "presentations", "ai", "mobile"],
       bestFor: "Fast visual work",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "C"
     },
     {
@@ -200,7 +200,7 @@
       features: ["Layered editing", "PSD support", "Filters & masks", "Browser-based", "No install"],
       capabilities: ["raster", "vector", "export", "plugins"],
       bestFor: "Photo editing",
-      color: "#5EC8E5",
+      color: "#2C6B6E",
       initials: "PP"
     },
 
@@ -222,7 +222,7 @@
       features: ["Grammar & spelling", "Tone suggestions", "Browser extension", "Email drafts", "Limited plagiarism checks"],
       capabilities: ["grammar", "tone", "browser", "integrations", "style"],
       bestFor: "Everyday writing",
-      color: "#4CC38A",
+      color: "#2F6D54",
       initials: "G"
     },
     {
@@ -242,7 +242,7 @@
       features: ["Grammar checks", "25+ languages", "Browser extension", "Open source", "Team dictionaries"],
       capabilities: ["grammar", "style", "browser", "integrations"],
       bestFor: "Multilingual writing",
-      color: "#8FA0FF",
+      color: "#5A6D9A",
       initials: "LT"
     },
     {
@@ -262,7 +262,7 @@
       features: ["Real-time editing", "Comments & suggestions", "Version history", "Offline mode", "Templates"],
       capabilities: ["docs", "collaboration", "templates", "offline", "integrations", "mobile"],
       bestFor: "Shared documents",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "GD"
     },
 
@@ -284,7 +284,7 @@
       features: ["Extensions", "Git integration", "Integrated terminal", "Debugger", "Copilot free tier"],
       capabilities: ["extensions", "git", "terminal", "debugging", "ai", "plugins"],
       bestFor: "Everyday development",
-      color: "#57CFD9",
+      color: "#2C6B6E",
       initials: "VS"
     },
     {
@@ -304,7 +304,7 @@
       features: ["Open-source builds", "Extension marketplace", "Git integration", "Privacy-first", "Lightweight"],
       capabilities: ["extensions", "git", "terminal", "debugging", "plugins"],
       bestFor: "Privacy-first coding",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "VC"
     },
 
@@ -326,7 +326,7 @@
       features: ["Multi-track recording", "Effects & plugins", "Noise reduction", "Wide export formats", "Open source"],
       capabilities: ["multitrack", "effects", "plugins", "recording", "export"],
       bestFor: "Podcasts & audio cleanup",
-      color: "#E6A94A",
+      color: "#8A5A14",
       initials: "A"
     },
     {
@@ -346,7 +346,7 @@
       features: ["Virtual instruments", "Loops & samples", "Recording", "Podcast templates", "Logic export"],
       capabilities: ["multitrack", "effects", "recording", "export", "templates"],
       bestFor: "Music & podcast creation",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "GB"
     },
 
@@ -368,7 +368,7 @@
       features: ["Presentation templates", "Presenter mode", "Real-time collaboration", "Charts & embeds", "PPT & PDF export"],
       capabilities: ["presentations", "templates", "collaboration", "export", "presenter", "ai", "mobile"],
       bestFor: "Client-ready decks",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "CP"
     },
     {
@@ -388,7 +388,7 @@
       features: ["Real-time collaboration", "Presenter view", "Version history", "Offline mode", "Add-ons"],
       capabilities: ["presentations", "collaboration", "templates", "offline", "presenter", "integrations"],
       bestFor: "Team decks",
-      color: "#E6A94A",
+      color: "#8A5A14",
       initials: "GS"
     },
     {
@@ -408,7 +408,7 @@
       features: ["AI-generated decks", "Responsive layouts", "Web sharing", "View analytics", "Brand themes"],
       capabilities: ["presentations", "ai", "templates", "collaboration", "export", "presenter"],
       bestFor: "Fast, modern decks",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "GA"
     },
 
@@ -430,7 +430,7 @@
       features: ["Contact management", "Deal pipeline", "Email tracking", "Tasks & reminders", "Reporting dashboard"],
       capabilities: ["contacts", "pipelines", "email", "tasks", "reporting", "automation", "mobile", "integrations"],
       bestFor: "Customer follow-ups",
-      color: "#E6A94A",
+      color: "#8A5A14",
       initials: "H"
     },
     {
@@ -450,7 +450,7 @@
       features: ["Lead capture", "Sales pipeline", "Workflow rules", "Reports", "Mobile app"],
       capabilities: ["contacts", "pipelines", "email", "tasks", "reporting", "automation", "mobile"],
       bestFor: "Lead management",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "Z"
     },
     {
@@ -470,7 +470,7 @@
       features: ["CRM inside Gmail", "Pipeline tracking", "Email snippets", "Contact history", "Shared boxes"],
       capabilities: ["contacts", "pipelines", "email", "tasks", "collaboration", "integrations"],
       bestFor: "Inbox-based follow-ups",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "S"
     },
 
@@ -492,7 +492,7 @@
       features: ["Channels", "Huddles", "File sharing", "App integrations", "90-day history"],
       capabilities: ["channels", "calls", "file-sharing", "integrations", "mobile", "history"],
       bestFor: "Team communication",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "SL"
     },
     {
@@ -512,7 +512,7 @@
       features: ["Chat & channels", "Video meetings", "File storage", "Office web apps", "Guest access"],
       capabilities: ["channels", "calls", "file-sharing", "integrations", "mobile", "meetings"],
       bestFor: "Microsoft-first teams",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "T"
     },
     {
@@ -532,7 +532,7 @@
       features: ["Voice & video", "Topic channels", "File sharing", "Screen share", "Communities"],
       capabilities: ["channels", "calls", "file-sharing", "mobile", "meetings"],
       bestFor: "Community & voice",
-      color: "#8FA0FF",
+      color: "#5A6D9A",
       initials: "D"
     },
     {
@@ -552,7 +552,7 @@
       features: ["25 videos per creator", "5-minute recordings", "Basic editing", "Shareable links", "Viewer comments"],
       capabilities: ["video", "recording", "file-sharing", "collaboration", "mobile", "analytics"],
       bestFor: "Quick async updates",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "L"
     },
     {
@@ -572,7 +572,7 @@
       features: ["Screen recording", "Live streaming", "Scene composition", "Audio mixer", "Unlimited length"],
       capabilities: ["video", "recording", "audio", "streaming", "plugins"],
       bestFor: "Long recordings",
-      color: "#57CFD9",
+      color: "#2C6B6E",
       initials: "OBS"
     },
 
@@ -594,7 +594,7 @@
       features: ["Boards & cards", "Checklists", "Automation (limited)", "Power-Ups", "Mobile apps"],
       capabilities: ["boards", "tasks", "automation", "collaboration", "mobile", "integrations"],
       bestFor: "Simple project tracking",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "TR"
     },
     {
@@ -614,7 +614,7 @@
       features: ["Task lists", "Board view", "Timeline (limited)", "Collaboration", "Mobile apps"],
       capabilities: ["boards", "tasks", "timeline", "collaboration", "mobile", "reporting"],
       bestFor: "Team task tracking",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "AS"
     },
     {
@@ -634,7 +634,7 @@
       features: ["Issue tracking", "Cycles & roadmap", "Keyboard-first UI", "Git integrations", "Slack integration"],
       capabilities: ["boards", "tasks", "timeline", "collaboration", "integrations", "reporting"],
       bestFor: "Product teams",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "LN"
     },
 
@@ -656,7 +656,7 @@
       features: ["Unlimited pages", "Databases", "Templates", "Real-time collaboration", "Mobile apps"],
       capabilities: ["docs", "databases", "templates", "collaboration", "integrations", "mobile"],
       bestFor: "Notes & lightweight systems",
-      color: "#9AA0AA",
+      color: "#716A5B",
       initials: "N"
     },
 
@@ -678,7 +678,7 @@
       features: ["Photoshop", "Illustrator", "Premiere Pro", "InDesign", "100GB cloud storage"],
       capabilities: ["vector", "raster", "photo", "layout", "video", "export", "collaboration", "plugins", "brand"],
       bestFor: "Full creative suite",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "Ac"
     },
     {
@@ -698,7 +698,7 @@
       features: ["Timeline editing", "Multicam", "Lumetri colour", "Essential graphics", "Team projects"],
       capabilities: ["timeline", "multicam", "color", "vfx", "audio", "titles", "export4k", "collaboration", "plugins"],
       bestFor: "Professional editing",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "Pr"
     },
     {
@@ -718,7 +718,7 @@
       features: ["Multitrack editing", "Spectral display", "Noise reduction", "Audio effects", "Session collaboration"],
       capabilities: ["multitrack", "effects", "plugins", "recording", "export", "collaboration"],
       bestFor: "Professional audio",
-      color: "#E6A94A",
+      color: "#8A5A14",
       initials: "Au"
     },
     {
@@ -738,7 +738,7 @@
       features: ["Unlimited blocks", "Unlimited guests", "30-day version history", "Admin tools", "Priority support"],
       capabilities: ["docs", "databases", "templates", "collaboration", "integrations", "mobile", "offline", "admin"],
       bestFor: "Shared team workspaces",
-      color: "#9AA0AA",
+      color: "#716A5B",
       initials: "N+"
     },
     {
@@ -758,7 +758,7 @@
       features: ["Unlimited videos", "HD recording", "Advanced analytics", "Team library", "Custom branding"],
       capabilities: ["video", "recording", "file-sharing", "collaboration", "analytics", "admin"],
       bestFor: "Team video messaging",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "L+"
     },
     {
@@ -778,7 +778,7 @@
       features: ["Unlimited files", "Team libraries", "Advanced prototyping", "Design system analytics", "Shared fonts"],
       capabilities: ["vector", "raster", "prototyping", "collaboration", "plugins", "brand", "export", "admin"],
       bestFor: "Design teams",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "F+"
     },
     {
@@ -798,7 +798,7 @@
       features: ["Full-sentence rewrites", "Tone adjustments", "Plagiarism checker", "Brand tones", "Priority support"],
       capabilities: ["grammar", "tone", "browser", "integrations", "style", "plagiarism", "admin"],
       bestFor: "Professional writing",
-      color: "#4CC38A",
+      color: "#2F6D54",
       initials: "G+"
     },
     {
@@ -818,7 +818,7 @@
       features: ["Slide master", "Presenter coach", "Animations", "Office integration", "Cloud collaboration"],
       capabilities: ["presentations", "templates", "collaboration", "presenter", "offline", "integrations", "export"],
       bestFor: "Office presentations",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "P"
     },
     {
@@ -838,7 +838,7 @@
       features: ["Lead scoring", "Sales pipeline", "Workflow automation", "Reports & dashboards", "App ecosystem"],
       capabilities: ["contacts", "pipelines", "email", "tasks", "reporting", "automation", "mobile", "integrations", "admin"],
       bestFor: "Sales teams",
-      color: "#5B8DEF",
+      color: "#3D5F8A",
       initials: "SF"
     },
     {
@@ -858,7 +858,7 @@
       features: ["Unlimited history", "Group calls", "Workflow builder", "Analytics", "Priority support"],
       capabilities: ["channels", "calls", "file-sharing", "integrations", "mobile", "history", "automation", "admin"],
       bestFor: "Growing teams",
-      color: "#A98BF5",
+      color: "#6A4F7A",
       initials: "SL+"
     },
     {
@@ -878,7 +878,7 @@
       features: ["Timeline", "Workload", "Automation", "Goals", "Reporting"],
       capabilities: ["boards", "tasks", "timeline", "collaboration", "mobile", "reporting", "automation", "admin"],
       bestFor: "Cross-team projects",
-      color: "#E56767",
+      color: "#A03A2E",
       initials: "AS+"
     },
     {
@@ -898,7 +898,7 @@
       features: ["Vector editing", "Symbols", "Prototyping", "Plugins", "Local files"],
       capabilities: ["vector", "prototyping", "collaboration", "plugins", "export"],
       bestFor: "Mac design workflows",
-      color: "#F0B763",
+      color: "#96662A",
       initials: "S"
     }
   ];
@@ -1053,7 +1053,7 @@
         altToolId: "canva-free",
         altLabel: "a free creative stack",
         initials: "Ac",
-        color: "#E56767",
+        color: "#A03A2E",
         planFeatures: ["Photoshop", "Illustrator", "Premiere Pro", "InDesign", "100GB cloud storage"],
         loseOnFree: ["Desktop apps and offline editing", "Native Premiere & After Effects files", "Adobe Fonts and 100GB storage"]
       },
@@ -1076,7 +1076,7 @@
         altToolId: "notion-free",
         altLabel: "Notion Free",
         initials: "N",
-        color: "#9AA0AA",
+        color: "#716A5B",
         planFeatures: ["Unlimited blocks", "Unlimited guests", "30-day version history", "Admin tools", "Priority support"],
         loseOnFree: ["Unlimited guests", "30-day version history", "Admin tools and priority support"]
       },
@@ -1099,7 +1099,7 @@
         altToolId: "loom-free",
         altLabel: "Loom Free",
         initials: "L",
-        color: "#A98BF5",
+        color: "#6A4F7A",
         planFeatures: ["Unlimited videos", "HD recording", "Advanced analytics", "Team library", "Custom branding"],
         loseOnFree: ["Unlimited video length", "Advanced analytics", "Team library and custom branding"]
       },
@@ -1122,7 +1122,7 @@
         altToolId: "figma",
         altLabel: "Figma Free",
         initials: "F",
-        color: "#A98BF5",
+        color: "#6A4F7A",
         planFeatures: ["Unlimited files", "Team libraries", "Advanced prototyping", "Design system analytics", "Shared fonts"],
         loseOnFree: ["Unlimited version history", "Team libraries", "Advanced prototyping"]
       },
@@ -1145,7 +1145,7 @@
         altToolId: "grammarly-free",
         altLabel: "Grammarly Free",
         initials: "G",
-        color: "#4CC38A",
+        color: "#2F6D54",
         planFeatures: ["Full-sentence rewrites", "Tone adjustments", "Plagiarism checker", "Brand tones", "Priority support"],
         loseOnFree: ["Full-sentence rewrites", "Plagiarism checker", "Brand tone controls"]
       }
@@ -1192,7 +1192,7 @@
         saved: null,
         auto: true,
         deadline: endOfYear(),
-        color: "#41D18C",
+        color: "#2F6D54",
         note: "Tracks savings from every switch and cancellation."
       },
       {
@@ -1202,7 +1202,7 @@
         saved: 18500,
         auto: false,
         deadline: inDays(240),
-        color: "#5B8DEF",
+        color: "#3D5F8A",
         note: "Put a little of each month's savings aside."
       }
     ];
